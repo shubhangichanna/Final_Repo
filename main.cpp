@@ -21,7 +21,7 @@ void displayNum(int n1, float n2) {
     cout << "Addition of number is " <<n1+n2<<endl;
     cout << "The substraction of number is " << n1-n2<<endl;
     cout << "The division of number is " << n1/n2<<endl;
-    cout<<"number is"<<n1<<endl;
+    
 }
 
 int main() {
